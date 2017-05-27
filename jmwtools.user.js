@@ -65,7 +65,6 @@
             var DoMainList = $('#shuchu .balist');
             DoMainList.find('tr').each(function(i,e){
                 var AtotalCount = DoMainList.find('tr').size()-1;
-                console.log(AtotalCount);
                 if(i>0 && i<AtotalCount){
                     var DoMainAObj = $(e).find('td:first-child a');
                     var DoMain = DoMainAObj.text();
