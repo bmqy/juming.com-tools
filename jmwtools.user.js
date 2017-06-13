@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         聚名网辅助工具（暂停更新）
+// @name         聚名网辅助工具
 // @namespace    http://bmqy.net/
 // @version      1.0
 // @description  聚名网搜索自动补".com"后缀，输入内容不包含".com,.net,.cn,.com.cn"时，自动补.com后缀；可使用一键检测注册状态按钮；域名列表增加天眼查和估价按钮。
